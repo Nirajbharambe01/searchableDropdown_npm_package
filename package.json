@@ -1,0 +1,20 @@
+{
+  "name": "searchabledropdown_npm_package",
+  "version": "1.0.0",
+  "description": "Searcheable dropdown with filter logic for first letter of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Niraj",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nirajbharambe01/searchableDropdown_npm_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nirajbharambe01/searchableDropdown_npm_package/issues"
+  },
+  "homepage": "https://github.com/Nirajbharambe01/searchableDropdown_npm_package#readme"
+}
